@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "fecha": "2026-10-05",
+    "concepto": "le doy a tokes para abrir obra en carriles",
+    "monto": 30000,
+    "cat": "Materiales"
+  }
+]
