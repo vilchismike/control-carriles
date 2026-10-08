@@ -6,5 +6,12 @@
     "monto": 20000,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 2,
+    "fecha": "2026-10-07",
+    "concepto": "Vino tokes a mi casa por dinero para piedra, arena, etc",
+    "monto": 10000,
+    "cat": "Materiales"
   }
 ]
