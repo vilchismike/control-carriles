@@ -13,5 +13,12 @@
     "concepto": "Vino tokes a mi casa por dinero para piedra, arena, etc",
     "monto": 10000,
     "cat": "Materiales"
+  },
+  {
+    "id": 3,
+    "fecha": "2026-10-08",
+    "concepto": "PAgo de material en mercantil de constructor para Carriles",
+    "monto": 9874.25,
+    "cat": "Materiales"
   }
 ]
