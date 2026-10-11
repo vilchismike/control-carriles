@@ -20,5 +20,12 @@
     "concepto": "PAgo de material en mercantil de constructor para Carriles",
     "monto": 9874.25,
     "cat": "Materiales"
+  },
+  {
+    "id": 4,
+    "fecha": "2026-10-23",
+    "concepto": "Le doy a toques para nomina Carriles",
+    "monto": 23000,
+    "cat": "Mano de obra"
   }
 ]
