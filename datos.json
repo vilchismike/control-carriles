@@ -43,7 +43,8 @@
     "id": 6,
     "fecha": "2026-10-12",
     "concepto": "Pago de material en FIX Ferreterías",
-    "monto": 3523,
-    "cat": "Materiales"
+    "monto": 10000,
+    "cat": "Materiales",
+    "editing": false
   }
 ]
