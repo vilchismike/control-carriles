@@ -12,27 +12,31 @@
     "fecha": "2026-10-07",
     "concepto": "Vino tokes a mi casa por dinero para piedra, arena, etc",
     "monto": 10000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 3,
     "fecha": "2026-10-08",
     "concepto": "PAgo de material en mercantil de constructor para Carriles",
     "monto": 9874.25,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 4,
-    "fecha": "2026-10-23",
+    "fecha": "2026-10-10",
     "concepto": "Le doy a toques para nomina Carriles",
     "monto": 23000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 5,
     "fecha": "2026-10-10",
     "concepto": "Le doy a Toques en Sta. Leticia para pago de Piedra en Carriels",
     "monto": 2400,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   }
 ]
