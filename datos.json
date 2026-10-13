@@ -46,5 +46,12 @@
     "monto": 10000,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 7,
+    "fecha": "2026-10-13",
+    "concepto": "Transferencia a tokes para comprar material",
+    "monto": 3000,
+    "cat": "Materiales"
   }
 ]
