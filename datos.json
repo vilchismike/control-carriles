@@ -53,5 +53,12 @@
     "concepto": "Transferencia a tokes para comprar material",
     "monto": 3000,
     "cat": "Materiales"
+  },
+  {
+    "id": 8,
+    "fecha": "2026-10-13",
+    "concepto": "Tokes vino por efectivo para material",
+    "monto": 21500,
+    "cat": "Materiales"
   }
 ]
