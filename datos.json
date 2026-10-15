@@ -60,5 +60,12 @@
     "concepto": "Tokes vino por efectivo para material",
     "monto": 21500,
     "cat": "Materiales"
+  },
+  {
+    "id": 9,
+    "fecha": "2026-10-13",
+    "concepto": "Pago en Ferreterias FIX",
+    "monto": 3523,
+    "cat": "Materiales"
   }
 ]
