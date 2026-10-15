@@ -67,5 +67,12 @@
     "concepto": "Pago en Ferreterias FIX",
     "monto": 3523,
     "cat": "Materiales"
+  },
+  {
+    "id": 10,
+    "fecha": "2026-10-14",
+    "concepto": "RAFA Le da a Toques en Carriles",
+    "monto": 4000,
+    "cat": "Materiales"
   }
 ]
