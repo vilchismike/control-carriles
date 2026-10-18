@@ -88,5 +88,12 @@
     "concepto": "Vino tokes a mi casa por moneda",
     "monto": 3000,
     "cat": "Materiales"
+  },
+  {
+    "id": 13,
+    "fecha": "2026-10-17",
+    "concepto": "Nomina para Tokes Rafa se lo manda a carriles",
+    "monto": 23000,
+    "cat": "Mano de obra"
   }
 ]
