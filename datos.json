@@ -81,5 +81,12 @@
     "concepto": "Viene Tokes a mi villanorte para materiales",
     "monto": 25000,
     "cat": "Materiales"
+  },
+  {
+    "id": 12,
+    "fecha": "2026-10-16",
+    "concepto": "Vino tokes a mi casa por moneda",
+    "monto": 3000,
+    "cat": "Materiales"
   }
 ]
