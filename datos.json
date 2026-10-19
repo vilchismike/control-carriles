@@ -52,55 +52,63 @@
     "fecha": "2026-10-13",
     "concepto": "Transferencia a tokes para comprar material",
     "monto": 3000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 8,
     "fecha": "2026-10-13",
     "concepto": "Tokes vino por efectivo para material",
     "monto": 21500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 9,
     "fecha": "2026-10-13",
     "concepto": "Pago en Ferreterias FIX",
     "monto": 3523,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 10,
     "fecha": "2026-10-14",
     "concepto": "RAFA Le da a Toques en Carriles",
     "monto": 4000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 11,
     "fecha": "2026-10-14",
     "concepto": "Viene Tokes a mi villanorte para materiales",
     "monto": 25000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 12,
     "fecha": "2026-10-16",
     "concepto": "Vino tokes a mi casa por moneda",
     "monto": 3000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 13,
     "fecha": "2026-10-17",
     "concepto": "Nomina para Tokes Rafa se lo manda a carriles",
     "monto": 23000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 14,
     "fecha": "2026-10-17",
-    "concepto": "Tarja que Compio tokes en santa leticia se la meto en obra carriles",
+    "concepto": "Pago Gersa Taza baño Sta. Leticia Toques - tokes rompio taza y la repone y lo meto en carriles de gastos",
     "monto": 1999,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   }
 ]
