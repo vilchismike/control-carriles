@@ -110,5 +110,12 @@
     "monto": 1999,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 15,
+    "fecha": "2026-10-20",
+    "concepto": "Tokes vino por efectivo para material",
+    "monto": 8000,
+    "cat": "Materiales"
   }
 ]
