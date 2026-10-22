@@ -101,5 +101,12 @@
     "concepto": "Pago Gersa Taza baño Sta. Leticia Toques - tokes rompio taza y la repone y lo meto en carriles de gastos",
     "monto": 1999,
     "cat": "Materiales"
+  },
+  {
+    "id": 14,
+    "fecha": "2026-10-17",
+    "concepto": "Nomina para Tokes Rafa se lo manda a carriles",
+    "monto": 23000,
+    "cat": "Mano de obra"
   }
 ]
