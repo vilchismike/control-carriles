@@ -108,5 +108,12 @@
     "concepto": "Nomina para Tokes Rafa se lo manda a carriles",
     "monto": 23000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 15,
+    "fecha": "2026-10-19",
+    "concepto": "Le doy dinero al tokes para obra en el palacio de cordoba",
+    "monto": 13000,
+    "cat": "Materiales"
   }
 ]
