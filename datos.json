@@ -94,5 +94,12 @@
     "monto": 3000,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 13,
+    "fecha": "2026-10-16",
+    "concepto": "Pago Gersa Taza baño Sta. Leticia Toques - tokes rompio taza y la repone y lo meto en carriles de gastos",
+    "monto": 1999,
+    "cat": "Materiales"
   }
 ]
