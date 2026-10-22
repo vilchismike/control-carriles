@@ -115,5 +115,12 @@
     "concepto": "Le doy dinero al tokes para obra en el palacio de cordoba",
     "monto": 13000,
     "cat": "Materiales"
+  },
+  {
+    "id": 16,
+    "fecha": "2026-10-20",
+    "concepto": "Tokes vino por efectivo para material",
+    "monto": 8000,
+    "cat": "Materiales"
   }
 ]
