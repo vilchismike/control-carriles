@@ -117,12 +117,5 @@
     "concepto": "Tokes vino por efectivo para material",
     "monto": 8000,
     "cat": "Materiales"
-  },
-  {
-    "id": 16,
-    "fecha": "2026-10-21",
-    "concepto": "Viene tokes a mi casa con su esposa por moneda",
-    "monto": 20000,
-    "cat": "Materiales"
   }
 ]
