@@ -100,55 +100,63 @@
     "fecha": "2026-10-16",
     "concepto": "Pago Gersa Taza baño Sta. Leticia Toques - tokes rompio taza y la repone y lo meto en carriles de gastos",
     "monto": 1999,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 14,
     "fecha": "2026-10-17",
     "concepto": "Nomina para Tokes Rafa se lo manda a carriles",
     "monto": 23000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 15,
     "fecha": "2026-10-19",
     "concepto": "Le doy dinero al tokes para obra en el palacio de cordoba",
     "monto": 13000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 16,
     "fecha": "2026-10-20",
     "concepto": "Tokes vino por efectivo para material",
     "monto": 8000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 17,
     "fecha": "2026-10-21",
     "concepto": "Viene tokes a mi casa con su esposa por moneda",
     "monto": 20000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 18,
     "fecha": "2026-10-23",
     "concepto": "Le doy a tokes para cimbra, le di el dinero enfrente donde hacen cambios de placas y tarjeta s de circulación",
     "monto": 4500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 19,
     "fecha": "2026-10-24",
     "concepto": "Le llevo dinero personalmente a la obra de carriles",
     "monto": 22000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 20,
     "fecha": "2026-10-24",
     "concepto": "Vibrador para colado",
     "monto": 1259,
-    "cat": "Materiales"
+    "cat": "Herramientas/Equipo",
+    "editing": false
   }
 ]
