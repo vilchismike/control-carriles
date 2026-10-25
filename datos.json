@@ -136,5 +136,12 @@
     "concepto": "Le doy a tokes para cimbra, le di el dinero enfrente donde hacen cambios de placas y tarjeta s de circulación",
     "monto": 4500,
     "cat": "Materiales"
+  },
+  {
+    "id": 19,
+    "fecha": "2026-10-24",
+    "concepto": "Le llevo dinero personalmente a la obra de carriles",
+    "monto": 22000,
+    "cat": "Mano de obra"
   }
 ]
