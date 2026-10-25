@@ -129,5 +129,12 @@
     "concepto": "Viene tokes a mi casa con su esposa por moneda",
     "monto": 20000,
     "cat": "Materiales"
+  },
+  {
+    "id": 18,
+    "fecha": "2026-10-23",
+    "concepto": "Le doy a tokes para cimbra, le di el dinero enfrente donde hacen cambios de placas y tarjeta s de circulación",
+    "monto": 4500,
+    "cat": "Materiales"
   }
 ]
