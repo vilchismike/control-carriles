@@ -143,5 +143,12 @@
     "concepto": "Le llevo dinero personalmente a la obra de carriles",
     "monto": 22000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 20,
+    "fecha": "2026-10-24",
+    "concepto": "Vibrador para colado",
+    "monto": 1259,
+    "cat": "Materiales"
   }
 ]
