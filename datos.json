@@ -179,5 +179,12 @@
     "concepto": "Viene tokes a mi casa por dinero para pagar material",
     "monto": 3000,
     "cat": "Materiales"
+  },
+  {
+    "id": 24,
+    "fecha": "2026-10-28",
+    "concepto": "Tokes pidio comprar revolvedora",
+    "monto": 6614,
+    "cat": "Herramientas/Equipo"
   }
 ]
