@@ -158,5 +158,12 @@
     "monto": 1259,
     "cat": "Herramientas/Equipo",
     "editing": false
+  },
+  {
+    "id": 21,
+    "fecha": "2026-10-26",
+    "concepto": "Transferencia Mercantil de materiales Material carriles",
+    "monto": 14834.04,
+    "cat": "Materiales"
   }
 ]
