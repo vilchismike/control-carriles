@@ -186,5 +186,12 @@
     "concepto": "Tokes pidio comprar revolvedora",
     "monto": 6614,
     "cat": "Herramientas/Equipo"
+  },
+  {
+    "id": 25,
+    "fecha": "2026-10-28",
+    "concepto": "Rafa le da a Toques en casa Carriles",
+    "monto": 5400,
+    "cat": "Materiales"
   }
 ]
