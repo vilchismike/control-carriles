@@ -165,5 +165,12 @@
     "concepto": "Transferencia Mercantil de materiales Material carriles",
     "monto": 14834.04,
     "cat": "Materiales"
+  },
+  {
+    "id": 22,
+    "fecha": "2026-10-27",
+    "concepto": "Transferencia Mercantil de materiales Material carriles",
+    "monto": 10854,
+    "cat": "Materiales"
   }
 ]
