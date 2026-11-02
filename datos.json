@@ -207,5 +207,12 @@
     "concepto": "Le doy a Persi para Toques en casa Carriles",
     "monto": 6500,
     "cat": "Materiales"
+  },
+  {
+    "id": 28,
+    "fecha": "2026-10-31",
+    "concepto": "Rafa le lleva dinero al tokes a carriles",
+    "monto": 30000,
+    "cat": "Mano de obra"
   }
 ]
