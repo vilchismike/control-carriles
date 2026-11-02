@@ -193,5 +193,12 @@
     "concepto": "Rafa le da a Toques en casa Carriles",
     "monto": 5400,
     "cat": "Materiales"
+  },
+  {
+    "id": 26,
+    "fecha": "2026-10-29",
+    "concepto": "Vino tokes a poner una lamina a villa norte y por ahi paso a pedirme para material",
+    "monto": 3000,
+    "cat": "Materiales"
   }
 ]
