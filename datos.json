@@ -200,5 +200,12 @@
     "concepto": "Vino tokes a poner una lamina a villa norte y por ahi paso a pedirme para material",
     "monto": 3000,
     "cat": "Materiales"
+  },
+  {
+    "id": 27,
+    "fecha": "2026-10-29",
+    "concepto": "Le doy a Persi para Toques en casa Carriles",
+    "monto": 6500,
+    "cat": "Materiales"
   }
 ]
