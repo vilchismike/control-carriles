@@ -221,5 +221,12 @@
     "concepto": "tokes vino a villa norte por moneda",
     "monto": 25000,
     "cat": "Materiales"
+  },
+  {
+    "id": 30,
+    "fecha": "2026-11-04",
+    "concepto": "Viene chalan de tokes por moneda a villa norte",
+    "monto": 9500,
+    "cat": "Materiales"
   }
 ]
