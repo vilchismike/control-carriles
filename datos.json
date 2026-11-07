@@ -235,5 +235,12 @@
     "concepto": "Rafa le lleva dinero a tokes",
     "monto": 24000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 32,
+    "fecha": "2026-11-07",
+    "concepto": "Anticipo de aluminio para Carriles - tokes",
+    "monto": 30000,
+    "cat": "Materiales"
   }
 ]
