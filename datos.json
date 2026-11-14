@@ -242,5 +242,12 @@
     "concepto": "Anticipo de aluminio para Carriles - tokes",
     "monto": 30000,
     "cat": "Materiales"
+  },
+  {
+    "id": 33,
+    "fecha": "2026-11-10",
+    "concepto": "Vino tokes por dinero a mi casa",
+    "monto": 800,
+    "cat": "Materiales"
   }
 ]
