@@ -263,5 +263,12 @@
     "concepto": "Viene tokes a mi casa por dinero",
     "monto": 4500,
     "cat": "Materiales"
+  },
+  {
+    "id": 36,
+    "fecha": "2026-11-12",
+    "concepto": "Pago en Mercantil de materiales",
+    "monto": 24692.89,
+    "cat": "Materiales"
   }
 ]
