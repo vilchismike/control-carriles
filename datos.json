@@ -270,5 +270,12 @@
     "concepto": "Pago en Mercantil de materiales",
     "monto": 24692.89,
     "cat": "Materiales"
+  },
+  {
+    "id": 37,
+    "fecha": "2026-11-13",
+    "concepto": "Tokes viene en moto por moneda a villa norte",
+    "monto": 5500,
+    "cat": "Materiales"
   }
 ]
