@@ -256,5 +256,12 @@
     "concepto": "Vino mas tarde de nuevo TOKES por mas dinero",
     "monto": 500,
     "cat": "Materiales"
+  },
+  {
+    "id": 35,
+    "fecha": "2026-11-11",
+    "concepto": "Viene tokes a mi casa por dinero",
+    "monto": 4500,
+    "cat": "Materiales"
   }
 ]
