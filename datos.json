@@ -277,5 +277,12 @@
     "concepto": "Tokes viene en moto por moneda a villa norte",
     "monto": 5500,
     "cat": "Materiales"
+  },
+  {
+    "id": 38,
+    "fecha": "2026-11-14",
+    "concepto": "le llevo dinero a Tokes a la obra para nomina",
+    "monto": 27000,
+    "cat": "Mano de obra"
   }
 ]
