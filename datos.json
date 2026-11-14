@@ -164,125 +164,143 @@
     "fecha": "2026-10-26",
     "concepto": "Transferencia Mercantil de materiales Material carriles",
     "monto": 14834.04,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 22,
     "fecha": "2026-10-27",
     "concepto": "Transferencia Mercantil de materiales Material carriles",
     "monto": 10854,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 23,
     "fecha": "2026-10-27",
     "concepto": "Viene tokes a mi casa por dinero para pagar material",
     "monto": 3000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 24,
     "fecha": "2026-10-28",
     "concepto": "Tokes pidio comprar revolvedora",
     "monto": 6614,
-    "cat": "Herramientas/Equipo"
+    "cat": "Herramientas/Equipo",
+    "editing": false
   },
   {
     "id": 25,
     "fecha": "2026-10-28",
     "concepto": "Rafa le da a Toques en casa Carriles",
     "monto": 5400,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 26,
     "fecha": "2026-10-29",
     "concepto": "Vino tokes a poner una lamina a villa norte y por ahi paso a pedirme para material",
     "monto": 3000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 27,
     "fecha": "2026-10-29",
     "concepto": "Le doy a Persi para Toques en casa Carriles",
     "monto": 6500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 28,
     "fecha": "2026-10-31",
     "concepto": "Rafa le lleva dinero al tokes a carriles",
     "monto": 30000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 29,
     "fecha": "2026-11-03",
     "concepto": "tokes vino a villa norte por moneda",
     "monto": 25000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 30,
     "fecha": "2026-11-04",
     "concepto": "Viene chalan de tokes por moneda a villa norte",
     "monto": 9500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 31,
     "fecha": "2026-11-07",
     "concepto": "Rafa le lleva dinero a tokes",
     "monto": 24000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 32,
     "fecha": "2026-11-07",
     "concepto": "Anticipo de aluminio para Carriles - tokes",
     "monto": 30000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 33,
     "fecha": "2026-11-10",
     "concepto": "Vino tokes por dinero a mi casa",
     "monto": 800,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 34,
     "fecha": "2026-11-10",
     "concepto": "Vino mas tarde de nuevo TOKES por mas dinero",
     "monto": 500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 35,
     "fecha": "2026-11-11",
     "concepto": "Viene tokes a mi casa por dinero",
     "monto": 4500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 36,
     "fecha": "2026-11-12",
     "concepto": "Pago en Mercantil de materiales",
     "monto": 24692.89,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 37,
     "fecha": "2026-11-13",
     "concepto": "Tokes viene en moto por moneda a villa norte",
     "monto": 5500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 38,
     "fecha": "2026-11-14",
-    "concepto": "le llevo dinero a Tokes a la obra para nomina",
+    "concepto": "le llevo dinero a Tokes a la obra para nomina y para coladores 2da losa",
     "monto": 27000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   }
 ]
