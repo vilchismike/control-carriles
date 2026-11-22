@@ -309,5 +309,12 @@
     "concepto": "Vino tokes por moneda a mi casa",
     "monto": 3000,
     "cat": "Materiales"
+  },
+  {
+    "id": 40,
+    "fecha": "2026-11-18",
+    "concepto": "Vino tokes a villa norte por dinero",
+    "monto": 6200,
+    "cat": "Materiales"
   }
 ]
