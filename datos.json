@@ -323,5 +323,12 @@
     "concepto": "Tokes me pide que deposite a este número para material",
     "monto": 1100,
     "cat": "Materiales"
+  },
+  {
+    "id": 42,
+    "fecha": "2026-11-21",
+    "concepto": "Le doy a tokes personalmente en la obra para nomina",
+    "monto": 28000,
+    "cat": "Mano de obra"
   }
 ]
