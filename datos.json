@@ -302,5 +302,12 @@
     "monto": 27000,
     "cat": "Mano de obra",
     "editing": false
+  },
+  {
+    "id": 39,
+    "fecha": "2026-11-16",
+    "concepto": "Vino tokes por moneda a mi casa",
+    "monto": 3000,
+    "cat": "Materiales"
   }
 ]
