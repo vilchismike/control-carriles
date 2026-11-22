@@ -316,5 +316,12 @@
     "concepto": "Vino tokes a villa norte por dinero",
     "monto": 6200,
     "cat": "Materiales"
+  },
+  {
+    "id": 41,
+    "fecha": "2026-11-20",
+    "concepto": "Tokes me pide que deposite a este número para material",
+    "monto": 1100,
+    "cat": "Materiales"
   }
 ]
