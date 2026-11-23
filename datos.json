@@ -330,5 +330,12 @@
     "concepto": "Le doy a tokes personalmente en la obra para nomina",
     "monto": 28000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 43,
+    "fecha": "2026-11-23",
+    "concepto": "Vino tokes en moto por moneda",
+    "monto": 4000,
+    "cat": "Materiales"
   }
 ]
