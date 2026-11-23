@@ -337,5 +337,12 @@
     "concepto": "Vino tokes en moto por moneda",
     "monto": 4000,
     "cat": "Materiales"
+  },
+  {
+    "id": 44,
+    "fecha": "2026-11-23",
+    "concepto": "Pago para mercantil de constructor",
+    "monto": 23069.26,
+    "cat": "Materiales"
   }
 ]
